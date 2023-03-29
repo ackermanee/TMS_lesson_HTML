@@ -1,0 +1,15 @@
+p.main {
+    text-align:justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-indent: 20px;
+}
+body{
+    background-color: bisque;
+}
+div.border{
+    border: 3px solid red;
+    background-color: black;
+    color: orange;
+    width: 380px;
+}
